@@ -10,3 +10,10 @@ java sparrow {
  body {
          background-color: rgb(174, 255, 254);
     }
+@font-face {
+    font-family:ほのぼのぽっぷ;
+    src: url("C:\Users\金原未桜\Downloads\honobonopop_20191222\HonobonoPopTTF-Regular.ttf"); 
+}
+h1 {
+ font-family:'ほのぼのぽっぷ', sans-serif    
+}
