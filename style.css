@@ -12,7 +12,7 @@ java sparrow {
     }
 @font-face {
     font-family:ほのぼのぽっぷ;
-    src: url("C:\Users\金原未桜\Downloads\honobonopop_20191222\HonobonoPopTTF-Regular.ttf"); 
+    src: url("C:\Users\金原未桜\Downloads\honobonopop_20191222\HonobonoPopTTF-Regular.ttf") format('truetype'); 
 }
 h1 {
  font-family:'ほのぼのぽっぷ', sans-serif    
